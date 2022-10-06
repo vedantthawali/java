@@ -1,6 +1,6 @@
 //Write a java program to check whether the given number is negative or positive//
 import java.util.*;
-class Seven
+class Positive
 {
 public static void main (String args[])
 {
